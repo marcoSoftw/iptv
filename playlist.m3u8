@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="C9N" tvg- group-title="Sports",C9N
-https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="SNT" tvg- group-title="Sports",SNT
-https://dp7xchau0hnq3.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="TRECE" tvg- group-title="Sports",TRECE
-https://copacogen.desdeparaguay.net/trecetv/trecetv_alta/chunklist_w332036387.m3u8?k=e0e6bfdf9d1129a267d79cafd34a58b38bf66ed2ab767a56bb560fab57496c2f&exp=1729611251
