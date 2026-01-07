@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "DW",
+      "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8"
+    },
+    {
+      "name": "Canal 9",
+      "url": "https://dp7xchau0hnq3.cloudfront.net/index.m3u8"
+    },
+    {
+      "name": "C9N",
+      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
+    }
+  ]
+}
