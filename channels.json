@@ -5,12 +5,24 @@
       "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8"
     },
     {
-      "name": "Canal 9",
-      "url": "https://dp7xchau0hnq3.cloudfront.net/index.m3u8"
+      "name": "GEN",
+      "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_baja/chunklist_w706169285.m3u8"
     },
     {
-      "name": "C9N",
-      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
+      "name": "COSMOS TV",
+      "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
+    },
+     {
+      "name": "RECORD",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+    },
+    {
+      "name": "SBT INTERIOR",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+    },
+    {
+      "name": "REDE SPTV",
+      "url": "https://video01.logicahost.com.br/websptv/websptv/chunklist_w1654255747.m3u8"
     }
   ]
 }
